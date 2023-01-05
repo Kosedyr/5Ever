@@ -63,6 +63,42 @@ GameData::EncounterType.register({
 })
 
 GameData::EncounterType.register({
+  :id             => :Puddle,
+  :type           => :puddle,
+  :trigger_chance => 21,
+  })
+
+GameData::EncounterType.register({
+  :id             => :PuddleDay,
+  :type           => :puddle,
+  :trigger_chance => 21,
+})
+
+GameData::EncounterType.register({
+  :id             => :PuddleNight,
+  :type           => :puddle,
+  :trigger_chance => 21,
+})
+
+GameData::EncounterType.register({
+  :id             => :PuddleMorning,
+  :type           => :puddle,
+  :triger_chance => 21,
+})
+
+GameData::EncounterType.register({
+  :id             => :PuddleAfternoon,
+  :type           => :puddle,
+  :trigger_chance => 21,
+})
+
+GameData::EncounterType.register({
+  :id             => :PuddleEvening,
+  :type           => :puddle,
+  :trigger_chance => 21,
+})
+
+GameData::EncounterType.register({
   :id             => :Cave,
   :type           => :cave,
   :trigger_chance => 5

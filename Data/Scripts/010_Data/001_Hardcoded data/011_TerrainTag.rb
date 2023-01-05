@@ -10,7 +10,10 @@ module GameData
     attr_reader :can_dive
     attr_reader :deep_bush
     attr_reader :shows_grass_rustle
+    attr_reader :shows_puddle_rustle
+    attr_reader :shows_puddle_rustle_bottom
     attr_reader :land_wild_encounters
+    attr_reader :puddle_wild_encounters
     attr_reader :double_wild_encounters
     attr_reader :battle_environment
     attr_reader :ledge
@@ -49,7 +52,10 @@ module GameData
       @can_dive               = hash[:can_dive]               || false
       @deep_bush              = hash[:deep_bush]              || false
       @shows_grass_rustle     = hash[:shows_grass_rustle]     || false
+      @shows_puddle_rustle    = hash[:shows_puddle_rustle]    || false
+      @shows_puddle_rustle_bottom    = hash[:shows_puddle_rustle_bottom] || false
       @land_wild_encounters   = hash[:land_wild_encounters]   || false
+      @puddle_wild_encounters = hash[:puddle_wild_encounters] || false
       @double_wild_encounters = hash[:double_wild_encounters] || false
       @battle_environment     = hash[:battle_environment]
       @ledge                  = hash[:ledge]                  || false
@@ -192,11 +198,22 @@ GameData::TerrainTag.register({
 GameData::TerrainTag.register({
   :id                     => :Puddle,
   :id_number              => 16,
+  :shows_puddle_rustle    => true,
   :battle_environment     => :Puddle,
+  :puddle_wild_encounters => true,
   :shows_reflections      => true
 })
 
 GameData::TerrainTag.register({
   :id                     => :NoEffect,
   :id_number              => 17
+})
+
+GameData::TerrainTag.register({
+  :id                            => :PuddleBottom,
+  :id_number                     => 18,
+  :shows_puddle_rustle_bottom    => true,
+  :battle_environment            => :Puddle,
+  :puddle_wild_encounters        => true,
+  :shows_reflections             => true
 })

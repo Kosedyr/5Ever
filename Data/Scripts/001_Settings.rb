@@ -351,6 +351,10 @@ module Settings
   # ID of the animation played when a berry tree grows a stage while the player
   # is on the map (for new plant growth mechanics only).
   PLANT_SPARKLE_ANIMATION_ID   = 7
+  # ID of the animation played when the player steps on a puddle (puddle rustling).
+  PUDDLE_ANIMATION_ID          = 8
+  # ID of the animation played when the player steps on the bottom of a puddle (puddle rustling).
+  PUDDLE_BOTTOM_ANIMATION_ID   = 9
 
   #=============================================================================
 

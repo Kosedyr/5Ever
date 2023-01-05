@@ -146,14 +146,23 @@ EventHandlers.add(:on_step_taken, :pick_up_soot,
   }
 )
 
-# Show grass rustle animation
+# Show grass or puddle rustle animation
 EventHandlers.add(:on_step_taken, :grass_rustling,
   proc { |event|
     next if !$scene.is_a?(Scene_Map)
     event.each_occupied_tile do |x, y|
-      next if !$map_factory.getTerrainTagFromCoords(event.map.map_id, x, y, true).shows_grass_rustle
-      spriteset = $scene.spriteset(event.map_id)
-      spriteset&.addUserAnimation(Settings::GRASS_ANIMATION_ID, x, y, true, 1)
+      if $map_factory.getTerrainTagFromCoords(event.map.map_id, x, y, true).shows_grass_rustle
+        spriteset = $scene.spriteset(event.map_id)
+        spriteset&.addUserAnimation(Settings::GRASS_ANIMATION_ID, x, y, true, 1)
+      end
+      if $map_factory.getTerrainTagFromCoords(event.map.map_id, x, y, true).show_puddle_rustle
+        spriteset = $scene.spriteset(event.map_id)
+        spriteset&.addUserAnimation(Settings::PUDDLE_ANIMATION_ID, x, y, true, 0)
+      end
+      if $map_factory.getTerrainTagFromCoords(event.map.map_id, x, y, true).show_puddle_rustle_bottom
+        spriteset = $scene.spriteset(event.map_id)
+        spriteset&.addUserAnimation(Settings::PUDDLE_BOTTOM_ANIMATION_ID, x, y, true, 0)
+      end
     end
   }
 )

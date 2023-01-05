@@ -94,6 +94,7 @@ class PokemonEncounters
     return false if terrain_tag.ice
     return true if has_cave_encounters?   # i.e. this map is a cave
     return true if has_land_encounters? && terrain_tag.land_wild_encounters
+    return true if has_puddle_encounters? && terrain_tag.puddle_wild_encounters
     return false
   end
 
@@ -257,6 +258,9 @@ class PokemonEncounters
       end
       if !ret && has_cave_encounters?
         ret = find_valid_encounter_type_for_time(:Cave, time)
+      end
+      if !ret && has_puddle_encounters? &&game_map.terrain_tag($game_player.x, $game_player.y).puddle_wild_encounters
+        ret = find_valid_encounter_type_for_time(:Puddle, time)
       end
     end
     return ret
