@@ -155,11 +155,11 @@ EventHandlers.add(:on_step_taken, :grass_rustling,
         spriteset = $scene.spriteset(event.map_id)
         spriteset&.addUserAnimation(Settings::GRASS_ANIMATION_ID, x, y, true, 1)
       end
-      if $map_factory.getTerrainTagFromCoords(event.map.map_id, x, y, true).show_puddle_rustle
+      if $map_factory.getTerrainTagFromCoords(event.map.map_id, x, y, true).shows_puddle_rustle
         spriteset = $scene.spriteset(event.map_id)
         spriteset&.addUserAnimation(Settings::PUDDLE_ANIMATION_ID, x, y, true, 0)
       end
-      if $map_factory.getTerrainTagFromCoords(event.map.map_id, x, y, true).show_puddle_rustle_bottom
+      if $map_factory.getTerrainTagFromCoords(event.map.map_id, x, y, true).shows_puddle_rustle_bottom
         spriteset = $scene.spriteset(event.map_id)
         spriteset&.addUserAnimation(Settings::PUDDLE_BOTTOM_ANIMATION_ID, x, y, true, 0)
       end
@@ -208,7 +208,9 @@ EventHandlers.add(:on_player_change_direction, :trigger_encounter,
 
 def pbBattleOnStepTaken(repel_active)
   return if $player.able_pokemon_count == 0
+  puts("do we encounter?")
   return if !$PokemonEncounters.encounter_possible_here?
+  puts("aw fuck yeah we do")
   encounter_type = $PokemonEncounters.encounter_type
   return if !encounter_type
   return if !$PokemonEncounters.encounter_triggered?(encounter_type, repel_active)

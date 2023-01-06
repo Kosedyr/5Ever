@@ -315,7 +315,7 @@ LandNight,21
 LandAfternoon,21
     20,PIDGEY,5
 #-------------------------------
-[111] # Lavender Forest
+[120] # Lavender Forest 1
 LandDay,21
     25,NATU,15,17
     25,DROWZEE,15,17
@@ -343,7 +343,7 @@ LandNight,21
     5,CUBONE,15,17
     1,VOLTORB,13
 #-------------------------------
-[092] # Lavender Forest 2
+[121] # Lavender Forest 2
 LandDay,21
     25,NATU,15,17
     25,DROWZEE,15,17

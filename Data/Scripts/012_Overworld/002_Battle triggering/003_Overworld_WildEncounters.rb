@@ -56,6 +56,16 @@ class PokemonEncounters
     return false
   end
 
+  # Returns whether puddle-like encounters have been defined for the current map.
+  # Applies only to encounters triggered by moving around.
+  def has_puddle_encounters?
+    GameData::EncounterType.each do |enc_type|
+      puts(has_encounter_type?(enc_type.id))
+      return true if enc_type.type == :puddle && has_encounter_type?(enc_type.id)
+    end
+    return false
+  end
+
   # Returns whether land-like encounters have been defined for the current map
   # (ignoring the Bug Catching Contest one).
   # Applies only to encounters triggered by moving around.
@@ -259,7 +269,7 @@ class PokemonEncounters
       if !ret && has_cave_encounters?
         ret = find_valid_encounter_type_for_time(:Cave, time)
       end
-      if !ret && has_puddle_encounters? &&game_map.terrain_tag($game_player.x, $game_player.y).puddle_wild_encounters
+      if !ret && has_puddle_encounters? && $game_map.terrain_tag($game_player.x, $game_player.y).puddle_wild_encounters
         ret = find_valid_encounter_type_for_time(:Puddle, time)
       end
     end
