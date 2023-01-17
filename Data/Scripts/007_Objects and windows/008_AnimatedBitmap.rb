@@ -223,7 +223,18 @@ def pbGetTileBitmap(filename, tile_id, hue, width = 1, height = 1)
   }
 end
 
-def pbGetTileset(name, hue = 0)
+def pbGetTileset(name ,hue = 0)
+  $PokemonGlobal.season = 0 if !$PokemonGlobal.season
+  case $PokemonGlobal.season
+  when 0
+    name = File.exists?("Graphics/Tilesets/Spring_#{name}.png") ? "Spring_" + name : name
+  when 1
+    name = File.exists?("Graphics/Tilesets/Summer_#{name}.png") ? "Summer_" + name : name
+  when 2
+    name = File.exists?("Graphics/Tilesets/Fall_#{name}.png") ? "Fall_" + name : name
+  when 3
+    name = File.exists?("Graphics/Tilesets/Winter_#{name}.png") ? "Winter_" + name : name
+  end
   return AnimatedBitmap.new("Graphics/Tilesets/" + name, hue).deanimate
 end
 

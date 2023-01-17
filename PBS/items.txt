@@ -6082,3 +6082,15 @@ Pocket = 8
 Price = 0
 Flags = KeyItem
 Description = A faded sea chart that shows the way to a certain island.
+#-------------------------------
+#---------DEV ITEMS-------------
+#DO NOT GIVE THESE TO THE PLAYER
+#-------------------------------
+[POCKETCELEBI]
+Name = 1PocketCelebi
+NamePlural = 1PocketCelebis
+Pocket = 8
+Price = 0
+Flags = KeyItem
+FieldUse = Direct
+Description = How did you get this? Used to test seasons

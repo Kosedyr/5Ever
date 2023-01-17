@@ -38,6 +38,11 @@ ItemHandlers::UseFromBag.add(:BICYCLE, proc { |item|
 
 ItemHandlers::UseFromBag.copy(:BICYCLE, :MACHBIKE, :ACROBIKE)
 
+ItemHandlers::UseFromBag.add(:POCKETCELEBI, proc { |item|
+  $PokemonGlobal.season = pbMessage("Change season?",[_INTL("Spring"),_INTL("Summer"),_INTL("Fall"),_INTL("Winter")],0)
+  next 2
+})
+
 ItemHandlers::UseFromBag.add(:OLDROD, proc { |item|
   notCliff = $game_map.passable?($game_player.x, $game_player.y, $game_player.direction, $game_player)
   next 2 if $game_player.pbFacingTerrainTag.can_fish && ($PokemonGlobal.surfing || notCliff)
@@ -201,6 +206,21 @@ ItemHandlers::UseInField.add(:ESCAPEROPE, proc { |item|
   }
   pbEraseEscapePoint
   next true
+})
+
+ItemHandlers::UseInField.add(:POCKETCELEBI, proc { |item|
+  pbUseItemMessage(item)
+  pbFadeOutIn {
+    $game_temp.player_new_map_id    = $game_map.map_id
+    $game_temp.player_new_x         = $game_player.x
+    $game_temp.player_new_y         = $game_player.y
+    $game_temp.player_new_direction = $game_player.direction
+    pbCancelVehicles
+    $scene.transfer_player
+    $game_map.autoplay
+    $game_map.refresh
+  }
+  next 1
 })
 
 ItemHandlers::UseInField.add(:SACREDASH, proc { |item|

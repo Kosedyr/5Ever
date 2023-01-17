@@ -36,6 +36,7 @@ class PokemonGlobalMetadata
   attr_accessor :repel
   attr_accessor :flashUsed
   attr_reader   :encounter_version
+  attr_accessor :season # 0 Spring | 1 Summer | 2 Fall | 3 Winter
   # Map transfers
   attr_accessor :healingSpot
   attr_accessor :escapePoint
@@ -90,6 +91,7 @@ class PokemonGlobalMetadata
     @repel                = 0
     @flashused            = false
     @encounter_version    = 0
+    @season               = 0
     # Map transfers
     @healingSpot          = nil
     @escapePoint          = []
