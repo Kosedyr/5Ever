@@ -1,0 +1,28 @@
+Vending machine drinks function as X-items
+    Fresh Water -> Guard Spec
+    Protein Drink -> X Attack
+    Veggie Smoothie -> X Defense
+    Lemonade -> X Special Attack
+    Moo Moo Milk -> X Special Defense
+    Soda Pop -> X Speed
+    Canned Coffee -> Dire Hit
+
+Vending machine snacks function as consumable held items
+    Focus Band
+    Eject Button
+    Eject Pack
+    Blunder Policy
+    Weakness Policy
+    Power Herb
+    White Herb
+    Mental Herb
+    Mirror Herb
+    Red Card
+    Gems
+    Room Service
+    Beserk Gene
+
+Herbal medicine being much more prominent
+    Potions and revives still available
+    Otherwise all herbal medicines with their substitutes being rare if available at all
+

@@ -1,0 +1,12 @@
+Pewter Gym Trainer A: Peter:
+    Encounter Text:
+        Hey! Don't step on that!
+        That might end up in a museum someday!
+    Defeat Text:
+        I found a fossil today.
+        Not worth much money, but it has sedimental value.
+
+Pewter Gym Trainer B: Steiner:
+    Defeat Text:
+        Ive trained my Cubone to sniff rocks and bark when it finds a fossil.
+        It's a trained barkeologist!

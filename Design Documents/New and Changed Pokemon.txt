@@ -1,0 +1,88 @@
+New Pokemon
+
+Skitty
+Delcatty
+Apricorb
+Cursola
+Pawniard
+Bisharp
+Zorua
+Zoroark
+Seedot
+Nuzleaf
+Shiftry
+Bronzor
+Bronzong
+Wyrdeer
+Morelull
+Shiinotic
+Flabebe
+Floette
+Florges
+Ursaluna
+Skrelp
+Dragalge
+Sinistea
+Polteageist
+Kleavor
+Blitzle
+Zebstrika
+Drampa
+Mienfoo
+Mienshao
+Lunatone
+Solrock
+Minior
+Rolycoly
+Carkol
+Coalossal
+Trapinch
+Vibrava
+Flygon
+
+Butterfree
+-Bug/Flying -> Bug/Psychic
+Sunflora
+-Grass -> Grass/Fire
+Ninetales
+-Fire -> Fire/Ghost
+Golduck
+-Water -> Water/Psychic
+Corsola (Galar)
+-Ghost -> Ghost/Rock
+Cursola
+-Ghost -> Ghost/Rock
+Farfetch'd
+-Normal/Flying -> Flying/Fighting
+Dunsparce
+-Normal -> Groun/Fairy
+Ponyta
+-Fire -> Fire/Normal
+Rapidash
+-Fire -> Fire/Normal
+Sinistea
+-Ghost -> Ghost/Water
+Polteageist
+-Ghost -> Ghost/Water
+Girafarig
+-Psychic/Normal -> Psychic/Dark
+Lickitung
+-Normal -> Normal/Poison
+Lickilicky
+-Normal -> Normal/Poison
+Electavire
+-Electric -> Electric/Fighting
+Omanyte
+-Water/Rock -> Water/Steel
+Omastar
+-Water/Rock -> Water/Steel
+Kabuto
+-Water/Rock -> Water/Bug
+Kabutops
+-Water/Rock -> Water/Bug
+Aerodactyl
+-Rock/Flying -> Dragon/Flying
+Bellossom
+-Grass -> Grass/Fairy
+Drampa (Youthful Forme)
+-Dragon/Normal -> Dragon/Fighting

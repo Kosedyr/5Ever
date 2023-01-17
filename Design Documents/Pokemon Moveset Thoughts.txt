@@ -1,0 +1,2999 @@
+Alakazam
+    Abilities
+        Synchronize
+        Magic Bounce (Hidden)
+    Moves  
+        Scratch
+        Tail Whip
+        Brainwave
+        Teleport
+        Confuse Ray
+        Psybeam
+        Psychic
+        Psychoboost
+        Disable
+        Kinesis
+        Ally Switch
+
+Clefable
+    Abilities
+        Cute Charm
+        Friend Guard (Hidden)
+    Moves
+        Pound
+        Baby-Doll Eyes
+        Disarming Voice
+        Moonlit Dance
+        Copycat
+        Draining Kiss
+        Moonblast
+        Meteor Beam
+        Metronome
+        Follow Meteor
+        Cosmic Power
+
+Machamp
+    Abilities
+        Guts
+        No Guard (Hidden)
+    Moves
+        Tackle
+        Leer
+        Rock Smash
+        Challenge
+        Seismic Toss
+        Karate Chop
+        Chi Strike
+        Cross Chop
+        Dynamic Punch
+        Bulk Up
+        Low Kick
+        Strength
+
+Butterfree
+    Abilities
+        Shield Dust
+        Effect Score
+        Honey Gather (Hidden)
+    Moves
+        Rage Powder
+        Helping Hand
+        Tackle
+        Confusion
+        Signal Beam
+        Pollen Puff
+        Magic Powder
+        Wish
+        Sleep Powder
+        Stun Spore
+        Poison Powder
+        Powder
+        Safeguard
+        String Shot
+        Harden
+
+Beedrill
+    Abilities
+        Swarm
+        Compound-Eyes
+        Technician (Hidden)
+    Moves
+        Poison Sting
+        Poison Jab
+        Twineedle
+        Fell Stinger
+        Pin Missile
+        Fury Attack
+        Laser Focus
+        Focus Energy
+        Attack Order
+        Defend Order
+        U-Turn
+        Toxic Spikes
+        String Shot
+
+Pidgeot
+    Abilities
+        Tangled Feet
+        Stalwart
+        No Guard (Hidden)
+    Moves
+        Scratch
+        Gust
+        Wing Attack
+        Swift
+        Quick Attack
+        Uproar
+        Air Slash
+        Sand Attack
+        Mud Slap
+        Double Team
+        Whirlwind
+        Feather Dance
+        Razor Wind
+
+Raticate
+    Abilities
+        Run Away/Guts
+        Hustle
+        Strong Jaw (Hidden)
+    Moves
+        Quick Attack
+        Scary Face
+        Hyper Fang
+        Super Fang
+        Sucker Punch
+        Fire Fang
+        Ice Fang
+        Thunder Fang
+        Psychic Fang
+        Double Edge
+        Crunch
+        Endeavor
+
+Fearow
+    Abilities
+        Inner Focus
+        Sniper
+        Reckless (Hidden)
+    Moves
+        Brave Bird
+        Double Edge
+        Drill Peck
+        Drill Run
+        Aerial Ace
+        Sky Attack
+        Peck
+        Slash
+        Pursuit
+        Fury Attack
+        Takedown
+        Scary Face
+        Growl
+
+Noctowl
+    Abilities
+        Nocturnal
+        Scrappy
+        Ambush (Hidden)
+    Moves
+        Extrasensory
+        Hypnosis
+        Dream Eater
+        Air Slash
+        Night Slash
+        Mean Look
+        Reflect
+        Roost
+        Sky Attack
+        Takedown
+        Foresight
+        Echoed Voice
+
+Furret
+    Abilities
+        Frisk
+        Limber
+        Super Luck (Hidden)
+    Moves
+        Coil
+        Quick Attack
+        Slam
+        Thrash
+        Fury Swipes
+        Defense Curl
+        Reversal
+        Screech
+        Dig
+        Flail
+        Rest
+        Helping Hand
+
+Victreebel
+    Abilities
+        Arena Trap
+        Liquid Ooze
+        Devour (Hidden)
+    Moves
+        Stockpile
+        Swallow
+        Spit Up
+        Sweet Scent
+        Acid
+        Gastro Acid
+        Poison Jab
+        Wrap
+        Baneful Bunker
+        Vine Whip
+        Belch
+        Power Whip
+        Leaf Tornado
+        Ingrain
+        Giga Drain
+
+Vileplume
+    Abilities
+        Invasive Growth
+        Stench
+        Corrosion (Hidden)
+    Moves  
+        Stun Spore
+        Absorb
+        Mega Drain
+        Giga Drain 
+        Poison Gas 
+        Acid 
+        Sludge Bomb
+        Gunk Shot 
+        Belch 
+        Strength Sap 
+
+Bellossom
+    Abilities 
+        Chlorophyll
+        Healer
+        Dancer (Hidden)
+    Moves  
+        Solar Beam
+        Petal Dance
+        Petal Blizzard
+        Quiver Dance
+        Nature Power
+        Leaf Blade
+        Synthesis
+        Grassy Terrain
+        Purify
+        Grassy Glide
+        Teeter Dance
+        Sunny Day
+
+Crobat
+    Abilities
+        Bloodsucker
+        Infiltrator (Hidden)
+    Moves
+        Poison Fang
+        Crunch
+        Leech Life
+        Astonish
+        Dual Wingbeat
+        Bite
+        Confuse Ray
+        Screech
+        Acrobatics
+        Haze
+
+Ledian
+    Abilities
+        Iron Fist
+        Harvest
+        Vexing Strike (Hidden)
+    Moves
+        Comet Punch
+        Bullet Punch
+        Mach Punch
+        U-Turn
+        Power-Up Punch
+        Bug Bite
+        Belch
+        Fling
+        Stuff Cheeks
+        Thief
+        Buggy Punch
+
+Ariados
+    Abilities
+        Sniper
+        Penumbra
+        Ensnared Prey (Hidden)
+    Moves
+        Cross Poison
+        Bug Bite
+        Shadow Sneak
+        Fell Stinger
+        Night Shade
+        Poison Sting
+        Sticky Web
+        Toxic Thread
+        Venom Drench
+        Infestation
+        First Impression
+        Leech Life
+        Scary Face
+
+Parasect
+    Abilities
+        Effect Spore
+        Invasive Growth
+        Host (Hidden)
+    Moves
+        Fury Cutter
+        Slash
+        Scratch
+        Cross Poison
+        Absorb
+        Spore
+        Leech Life
+        Giga Drain
+        Infestation
+        Leech Seed
+        Ingrain
+        Growth
+
+Venomoth
+    Abilities
+        Compound Eyes/Shield Dust
+        Wonder Skin 
+        Tinted Lens (Hidden)
+    Moves  
+        Quiver Dance
+        Bug Buzz
+        Gust
+        Struggle Bug
+        Mega Drain
+        Poison Fang
+        Venoshock
+        Toxic Thread
+        String Shot
+        Magic Powder
+        Moonlight
+        Poison Powder
+
+Raichu
+    Abilities
+        Static
+        Lightning Rod
+        Electric Surge (Hidden)
+    Moves
+        Body Slam
+        Thundershock
+        Thunderbolt
+        Volt Tackle
+        Thunder Punch
+        Rising Voltage
+        Discharge
+        Electric Terrain
+        Thunder Wave
+        Charge
+        Helping Hand
+        Tail Whip
+
+Alolan Raichu
+    Abilities
+        Static
+        Lightning Rod
+        Surge Surfer (Hidden)
+    Moves
+        Expanding Force
+        Thundershock
+        Thunderbolt
+        Volt Tackle
+        Magnet Rise
+        Rising Voltage
+        Discharge
+        Electric Terrain
+        Thunder Wave
+        Charge
+        Healping Hand
+        Tail Whip
+
+Forretress
+    Abilities
+        Sturdy
+        Overcoat
+        Bulletproof (Hidden)
+    Moves
+        Shell Smash
+        Explosion
+        Gyro Ball
+        Rapid Spin
+        Bide
+        Steamroller
+        Rollout
+        Iron Defense
+        Pin Missile
+        Spike Cannon
+        Spikes
+        Steel Roller
+        Spiky Shield
+
+Ampharos
+    Abilities
+        Static/Lighting Rod
+        Illuminate/Dazzling
+        Fluffy/Battery (Hidden)
+    Moves
+        Tail Glow
+        Thunder Wave
+        Power Gem
+        Discharge
+        Dazzling Gleam
+        Flash
+        Confuse Ray
+        Cotton Spore
+        Light Screen
+        Signal Beam
+        Flash Cannon
+        Ion Deluge
+
+Wigglytuff
+    Abilities
+        Cute Charm
+        Thick Fat
+        Resonant Body (Hidden)
+    Moves
+        Sing
+        Hyper Voice
+        Rollout
+        Disarming Voice
+        Berceuse
+        Stockpile
+        Swallow
+        Spit Up
+        Defense Curl
+        Rest
+        Snore
+        Attract
+
+Arbok
+    Abilities
+        Intimidate
+        Shed Skin
+        Pattern Recognition (Hidden)
+    Moves
+        Poison Fang
+        Wrap
+        Crunch
+        Scary Face
+        Poison Sting
+        Glare
+        Teeter Dance
+        Coil
+        Acid Spray
+        Venom Drench
+
+Sunflora
+    Abilities
+        Chlorophyll
+        Solar Power
+        Drought (Hidden)
+    Moves
+        Heatwave
+        Overheat
+        Energy Ball
+        Solar Beam
+        Leaf Storm
+        Bullet Seed
+        Sunny Day
+        Ingrain
+        Flower Shield
+        Synthesis
+        Growth
+
+Jumpluff
+    Abilities
+        Cotton Down
+        Cloud Nine
+        Easy Breezy (Hidden)
+    Moves
+        Stun Spore
+        Leaf Tornado
+        Worry Seed
+        Leech Seed
+        Seed Bomb
+        Bullet Seed
+        Whirlwind
+        Tailwind
+        Hurricane
+        Cotton Spore
+        Cotton Guard
+        Bounce
+
+Donphan
+    Abilities
+        Reckless
+        Sturdy  
+        Sand Stream (Hidden)
+    Moves
+        Rollout
+        Horn Attack
+        Takedown
+        Double Edge
+        Head Smash
+        Landslide
+        Defense Curl
+        Rapid Spin
+        Bulldoze
+        Noble Roar
+        Charm
+        Water Gun
+        Mud Slap
+
+Sandslash
+    Abilities
+        Sand Veil
+        Sand Rush (Hidden)
+    Moves
+        Slash
+        Dig
+        Crush Claw
+        Drill Run
+        Scratch
+        Defense Curl
+        Rollout
+        Sandstorm
+        Rapid Spin
+        Spiky Shield
+        Magnitude
+
+Dugtrio
+    Abilities
+        Sand Veil
+        Arena Trap
+        Sand Force (Hidden)
+    Moves
+        Earthquake
+        Tri Attack
+        Mud Slap
+        Astonish
+        Headbutt
+        Sucker Punch
+        Dig
+        Bulldoze
+        Fissure
+        Rototiller
+
+Golem
+    Abilities
+        Sturdy
+        Aftermath
+        Rock Head (Hidden)
+    Moves
+        Rock Throw
+        Rollout
+        Magnitude
+        Heavy Slam
+        Defense Curl
+        Explosion
+        Sandstorm
+        Rock Smash
+        Shell Smash
+
+Onix
+    Abilities
+        Rough Skin
+        Sturdy
+        Sheer Force (Hidden)
+        Crystal Body (Hidden)*
+    Moves
+        Dig 
+        Accelrock
+        Wrap
+        Iron Tail
+        Stone Edge
+        Crunch
+        Head Smash
+        Harden
+        Rock Polish
+        Screech
+        Rock Slide
+        Gyro Ball
+        Earthquake
+
+Steelix
+    Abilities
+        Heavy Metal 
+        Sturdy
+        Sheer Force (Hidden)
+    Moves
+        Dig
+        Accelrock
+        Wrap
+        Iron Tail
+        Stone Edge
+        Crunch
+        Heavy Slam
+        Harden
+        Automotize
+        Screech
+        Rock Slide
+        Gyro Ball
+        Earthquake
+
+Mawile
+    Abilities
+        Strong Jaw
+        Intimidate
+        Huge Power (Hidden)
+    Moves
+        Bite
+        Crunch
+        Iron Head
+        Play Rough
+        Sucker Punch
+        Scuffle
+        Stockpile
+        Spit Up
+        Swallow
+        Crush Grip
+
+Nidoqueen
+    Abilities
+        Poison Point 
+        Rivalry
+        Sheer Force (Hidden)
+    Moves
+        Body Slam
+        Circle Throw
+        Earth Power
+        Superpower
+        Poison Sting
+        Double Kick
+        Wide Guard
+        Crunch
+        Follow Me 
+        Retaliate
+        Poison Tail
+
+Nidoking
+    Abilities
+        Poison Touch
+        Intimidate
+        Sheer Force (Hidden)
+    Moves
+        Horn Attack
+        Poison Sting
+        Double Kick
+        Poison Jab
+        High Horsepower
+        Thrash
+        Roar
+        Bulldoze
+        Taunt 
+        Spiky Shield
+
+Persian
+    Abilities
+        Limber
+        Intimidate
+        Tough Claws (Hidden) 
+    Moves
+        Bite
+        Swift
+        Uproar
+        Slash
+        Power Gem
+        Scratch
+        Snarl
+        Pay Day
+        Covet
+        Nasty Plot 
+        Imperious Demand
+
+Granbull
+    Abilities
+        Intimidate
+        Strong Jaw
+        Fairy Aura (Hidden)
+    Moves
+        Scuffle
+        Bite
+        Crunch
+        Play Rough
+        Headbutt
+        Roar
+        Scary Face
+        Charm
+        Taunt
+        Howl
+        No Retreat
+        Lick   
+
+Houndoom
+    Abilities
+        Pressure
+        Flash Fire
+        Death Knell (Hidden)
+    Moves
+        Beat Up
+        Night Slash
+        Fire Fang
+        Crunch
+        Smog
+        Payback
+        Howl
+        Pursuit
+        Odor Sleuth
+
+Ninetales
+    Abilities
+        Cursed Body
+        Flash Fire
+        Perish Body (Hidden)
+    Moves
+        Will O Wisp
+        Ember
+        Fire Spin
+        Mystical Fire
+        Infernal Parade
+        Curse 
+        Hex
+        Grudge
+        Imprison 
+        Confuse Ray
+        Disable
+        Safeguard
+
+Alolan Ninetales
+    Abilities
+        Cute Charm
+        Snow Warning
+        Frozen Heart (Hidden)
+    Moves
+        Sudden Chill
+        Powder Snow
+        Icy Wind
+        Aurora Beam
+        Draining Kiss
+        Attract
+        Dazzling Gleam
+        Nature's Madness
+        Fairy Lock
+        Sweet Kiss
+        Haze
+        Crafty Shield
+        
+Golduck
+    Abilities
+        Zen Mode/Shirikodama
+        Psychic Surge (Hidden)
+    Moves
+        Disable
+        Psybeam
+        Liquidation
+        Water Gun
+        Aqua Jet 
+        Psyche Up
+        Agility
+        Confusion
+        Amnesia
+        Calm Mind 
+
+Poliwrath
+    Abilities
+        Water Absorb
+        Guts
+        Iron Fist (Hidden)
+    Moves
+        Drain Punch
+        Focus Punch
+        Power Up Punch
+        Surging Strikes
+        Bubble
+        Bubblebeam
+        Hypnosis
+        Belly Drum
+        Circle Throw
+        Swagger
+        Bulk Up
+        Amnesia
+
+Politoed
+    Abilities
+        Water Absorb
+        Drizzle
+        Liquid Voice (Hidden)
+    Moves
+        Rain Dance
+        Bubble
+        Bubblebeam
+        Bouncy Bubble
+        Mud Shot
+        Perish Song 
+        Sing
+        Hyper Voice
+        Echoed Voice
+        Round
+        Bounce
+
+Tyrogue
+    Abilities
+        Guts
+        Hustle
+        Stamina (Hidden)
+    Moves
+        Tackle
+        Mimic
+        Psyche Up
+        Assist
+        Rock Smash
+        Low Kick
+        Rapid Spin
+        Fake Out
+        Detect
+
+Hitmonlee
+    Abilities
+        Limber
+        Controlled Fall
+        Reckless (Hidden)
+    Moves
+        Jump Kick
+        High Jump Kick
+        Rolling Kick
+        Double Kick
+        Mega Kick
+        Low Kick
+        Reversal
+        Bounce
+        Feint
+
+Hitmonchan
+    Abilities
+        Iron Fist 
+        Inner Focus
+        Analytic (Hidden)
+    Moves
+        Bullet Punch
+        Fire Punch
+        Ice Punch
+        Thunder Punch
+        Shadow Punch
+        Sky Uppercut
+        Mega Punch
+        Focus Punch
+        Counter
+        Feint
+        Fake Out
+        Detect
+
+Hitmontop
+    Abilities
+        Tangled Feet
+        Technician
+        Dancer (Hidden)
+    Moves
+        Rapid Spin
+        Triple Kick
+        Feint
+        Low Sweep
+        Storm Throw
+        Capoeira
+        Teeter Dance
+        Fake Out
+        Detect
+        Double Team
+        Victory Dance
+
+Azumarill
+    Abilities
+        Thick Fat
+        Huge Power
+        Swift Swim (Hidden)
+    Moves
+        Bubble
+        Bubblebeam
+        Slam
+        Play Rough
+        Double Edge
+        Defense Curl
+        Rollout
+        Bounce
+        Flip Turn
+        Charm
+        Scuffle
+
+---Delcatty
+    Abilities
+        Cute Charm
+        Normalize
+        Adaptability/Protean (Hidden)
+    Moves
+        Scratch
+        Tail Whip
+        Sing
+        Nuzzle
+        Astonish
+        Charm
+        Disarming Voice
+        Copycat
+        Fury Swipes
+        Double Kick
+
+Snorlax
+    Abilities
+        Pick Up/Immunity
+        Thick Fat
+        Gluttony (Hidden)
+    Moves
+        Rest
+        Snore
+        Yawn
+        Bite
+        Lick
+        Sleep Talk 
+        Body Slam
+        Heavy Slam
+        Giga Impact
+        Belch
+        Belly Drum
+        Tackle
+
+Hypno
+    Abilities
+        Insomnia
+        Own Tempo
+        Magician (Hidden)
+        Bad Dreams (Hidden - Event)
+    Moves
+        Hypnosis
+        Dream Eater
+        Nightmare
+        Metronome
+        Nasty Plot
+        Thief
+        Mind Reader
+        Zen Headbutt
+        Synchronoise
+        Psyche Up
+        Entrainment
+        Snatch
+        Future Sight
+
+Marowak
+    Abilities
+        Rock Head
+        Lightning Rod
+        Sand Rush (Hidden)
+    Moves
+        Head Smash
+        Double Edge
+        Retaliate
+        Skull Bash
+        Bone Club
+        Bone Rush
+        Bonemerang
+        Tearful Look
+        Scary Face
+
+Alolan Marowak
+    Abilities
+        Rock Head
+        Flash Fire
+        Nocturnal (Hidden)
+    Moves
+        Flare Blitz
+        Shadow Rush
+        Infernal Parade
+        Skull Bash
+        Bone Club
+        Shadow Bone
+        Flame Wheel
+        Tearful Look
+        Scary Face
+
+Xatu
+    Abilities  
+        Synchronize
+        Drizzle
+        Magic Bounce (Hidden)
+    Moves  
+        Future Sight
+        Mind Reader
+        Glare
+        Psybeam
+        Me First
+        Peck
+        Miracle Eye
+        Roost
+        Wish
+        Confuse Ray
+        Lucky Chant
+        Teleport
+        Detect
+
+Honchkrow
+    Abilities
+        Moxie
+        Nightstalker
+        Prankster/Boss' Orders (Hidden)
+    Moves
+        Night Slash
+        Nasty Plot
+        Foul Play
+        Air Cutter
+        Wing Attack
+        Peck
+        Thief
+        Beat Up
+        Taunt
+        Swagger
+        Quash
+        Haze
+        Mean Look
+
+Mismagius
+    Abilities
+        Penumbra/Witching Hour
+        Magician
+        Frisk/Bad Dreams (Hidden)
+    Moves
+        Hex
+        Curse
+        Astonish
+        Eerie Spell
+        Mystical Fire
+        Confuse Ray
+        Hypnosis
+        Perish Song
+        Pain Split
+        Apparition
+        Poltergeist
+        
+Gengar
+    Abilities
+        Levitate/Cursed Body
+        Poison Touch/Merciless
+        Shadow Tag (Hidden)
+    Moves
+        Shadow Ball
+        Dark Pulse 
+        Sucker Punch
+        Shadow Punch
+        Dream Eater
+        Poison Gas
+        Venoshock
+        Confuse Ray 
+        Hypnosis
+        Lick
+        Curse
+        Spectral Thief
+        Hallucination
+
+Apricorb
+    Abilities
+        Aftermath
+        Wandering Spirit
+        Capture Essence (Hidden)
+    Moves
+        Astonish
+        Absorb
+        Rollout
+        Ominous Wind
+        Energy Ball
+        Shadow Ball
+        Chloroblast
+        Eerie Impulse
+        Confuse Ray
+        Leech Seed
+        Curse
+        Destiny Bond
+        Forest's Curse
+        Sonic Boom 
+        Soul Release
+
+Yanmega
+    Abilities 
+        Speed Boost
+        Tinted Lens
+        Ancient Might (Hidden)
+    Moves
+        Quick Attack
+        Bug Bite
+        Bug Buzz
+        Aerial Ace
+        Air Slash
+        Air Cutter
+        Screech
+        U-Turn
+        Double Team
+        Ancient Power
+        Gust
+        Razor Wind   
+
+Quagsire
+    Abilities
+        Damp 
+        Water Absorb
+        Unaware (Hidden)
+    Moves
+        Water Gun
+        Mud Shot
+        Slam
+        Aqua Tail
+        Muddy Water
+        Mud Bomb
+        Yawn
+        Amnesia
+        Slack Off
+        Rain Dance
+        Tail Whip
+        Toxic
+
+Kingler
+    Abilities
+        Hyper Cutter
+        Unseen Fist
+        Sheer Force (Hidden)
+    Moves
+        Crabhammer
+        Vise Grip
+        Crush Claw
+        Razor Shell
+        Guillotine
+        Crush Grip
+        Protect
+        Recover
+        Harden
+        Mud Sport
+        Foam Burst
+        Scuttle
+        Bubble
+
+Gyarados
+    Abilities  
+        Swift Swim/Intimidate
+        Rattled/Moxie (Hidden)
+    Moves
+        Bite
+        Outrage
+        Hyper Beam
+        Dragon Dance
+        Dragon Tail
+        Waterfall
+        Dragon Rage
+        Scary Face
+        Twister
+        Hurricane
+        Bounce
+        Rain Dance
+        Dragon Ascent
+
+Seaking
+    Abilities
+        Swift Swim
+        Lightning Rod
+        Liquify (Hidden)
+    Moves
+        Horn Attack
+        Fury Attack
+        Megahorn
+        Take Down
+        Flail
+        Waterfall
+        Flip Turn
+        Aqua Jet
+        Wave Crash
+        Attract
+        Rain Dance
+
+Octillery
+    Abilities
+        Keen Eye
+        Sniper
+        Focused Fire (Hidden)
+    Moves
+        Octazooka
+        Water Gun
+        Bubblebeam
+        Hyper Beam
+        Aurora Beam
+        Gunk Shot
+        Signal Beam
+        Snipe Shot
+        Focus Energy
+        Wrap
+        Lock On 
+        Soak
+        Smokescreen
+        Laser Focus
+
+Qwilfish
+    Abilities
+        Detonate
+        Aftermath
+        Swift Swim (Hidden)
+    Moves
+        Poison Sting
+        Flail
+        Poison Jab
+        Liquidation
+        Momento
+        Toxic Spikes
+        Destiny Bond
+        Baleful Bunker
+        Revenge
+        Stockpile
+        Spit Up
+
+Corsola
+    Abilities
+        Rough Skin
+        Natural Cure 
+        Regerator (Hidden)
+    Moves
+        Spike Cannon
+        Stone Edge
+        Ancient Power
+        Spikes
+        Razor Shell
+        Bouncy Bubble
+        Harden
+        Endure
+        Growth
+        Recover
+        Refresh
+        Happy Hour
+
+Cursola
+    Abilities
+        Weak Armor
+        Storm Drain
+        Perish Body (Hidden)
+    Moves
+        Strength Sap
+        Curse
+        Power Gem
+        Astonish
+        Spite
+        Ancient Power
+        Stealth Rock
+        Grudge
+        Astral Barrage
+        Ominous Wind
+        Mirror Coat
+        Perish Song
+        Disable
+
+Farfetch'd
+    Abilities
+        Keen Eye
+        Defiant
+        Sniper (Hidden)
+    Moves
+        Slash
+        Leaf Blade
+        Flying Press 
+        Sacred Sword
+        Aerial Ace
+        Slam
+        Brave Bird
+        Close Combat
+        Gale Strike
+        Swords Dance
+        Meteor Assault
+
+Bisharp
+    Abilities
+        Pressure
+        Highwayman
+        Ambush (Hidden)
+    Moves
+        Slash
+        Night Slash
+        Beat Up
+        Metal Claw
+        Iron Head
+        Guillotine
+        Thief
+        Swords Dance
+        Instruct
+
+Zoroark
+    Abilities
+        Illusion
+    Moves
+        Double Team
+        Snarl
+        Trick
+        Night Slash
+        Scratch
+        Hone Claws
+        Nasty Plot
+        Foul Play
+        Scary Face
+        Knock Off
+        Torment
+
+Shiftry
+    Abilities
+        Pickpocket
+        Download
+        Gale Wings (Hidden)
+    Moves
+        Air Cutter
+        Razor Wind
+        Oblivion Wing
+        Fake Out
+        Sucker Punch
+        Absorb
+        Harden
+        Growth
+        Leaf Tornado
+        Thief
+        Whirlwind
+
+Slowbro
+    Abilities
+        Own Tempo
+        Regenerator
+        Numb (Hidden)
+    Moves
+        Bubble
+        Confusion
+        Trick Room
+        Surf 
+        Stored Power
+        Razor Shell
+        Confuse Ray
+        Water Pulse
+        Amnesia
+        Slack Off
+        Calm Mind
+        Yawn
+
+Slowking
+    Abilities
+        Analytic
+        Regenerator
+        King's Gambit (Hidden)
+    Moves
+        Scald
+        Nasty Plot
+        Power Gem
+        Psyshock
+        Reflect
+        Light Screen
+        Disable
+        Recover
+        Telekinesis
+        Psychic Terrain
+        Hypnosis
+        Expanding Force
+
+Magnezone
+    Abilities
+        Magnet Pull
+        Analytic
+        Volt Absorb (Hidden)
+    Moves
+        Charge Beam
+        Zap Cannon
+        Lock On
+        Rising Voltage
+        Tri Attack
+        Flash Cannon
+        Magnet Bomb
+        Discharge
+        Magnet Rise 
+        Ion Deluge
+        Thunder Wave
+        Parabolic Charge
+        Mirror Shot
+        Electrify
+        Metal Sound 
+        Magnetic Flux
+        Electric Terrain
+        Signal Beam
+
+Mr. Mime
+    Abilities
+        Soundproof
+        Filter
+        Performance Art (Hidden)
+    Moves
+        Trick Room
+        Wonder Room
+        Psyshield Bash
+        Zen Headbutt
+        Play Rough
+        Block 
+        Metronome
+        Scuffle
+        Reflect
+        Light Screen
+        Barrage
+
+Smeargle
+    Abilities
+        Own Tempo
+        Technician
+        Moody (Hidden)
+    Moves
+        Sketch
+
+Ambipom
+    Abilities
+        Technician
+        Pickup
+        Skill Link (Hidden)
+    Moves
+        Slam
+        Double Slap
+        Double Hit
+        Acrobatics
+        Tail Slap
+        Fling
+        Baton Pass
+        Tickle
+        Screech
+        Wrap
+        Covet
+
+Primeape
+    Abilities
+        Vital Spirit
+        Anger Point
+        Gorilla Tactics (Hidden)
+    Moves
+        Rage
+        Stomping Tantrum
+        Thrash
+        Close Combat
+        Pursuit
+        Karate Chop
+        Swagger
+        Retaliate
+        Screech
+        Final Gambit
+        Covet
+
+Shuckle
+    Abilities
+        Sturdy
+        Juicer
+        Contrary (Hidden)
+    Moves
+        Struggle Bug
+        Shell Smash
+        Bug Bite
+        Rollout
+        Rock Slide
+        Spore
+        Recycle
+        Infestation
+        Gastro Acid
+        Withdraw
+        Power Split
+        Guard Split
+        Power Trick
+
+Tentacruel
+    Abilities
+        Clear Body
+        Liquid Ooze
+        Rain Dish (Hidden)
+    Moves
+        Wrap
+        Poison Jab
+        Whirlpool
+        Dive
+        Power Whip
+        Barb Barrage
+        Supersonic
+        Screech
+        Acid Armor
+        Aqua Ring 
+        Mirror Coat 
+        Tickle
+        Acupressure
+
+Mantine
+    Abilities
+        Swift Swim
+        Water Absorb
+        Sidearm (Hidden)
+    Moves
+        Water Pulse
+        Body Slam
+        Air Slash
+        Double Hit
+        Tailwind
+        Roost
+        Fly 
+        Wide Guard
+        Surf 
+
+Starmie
+    Abilities
+        Illuminate
+        Natural Cure
+        Regenerator (Hidden)
+    Moves
+        Power Gem
+        Psybeam
+        Water Pulse
+        Swift
+        Water Shuriken
+        Rapid Spin
+        Whirlpool
+        Recover
+        Bubblebeam
+        Harden
+        Wish
+
+Cloyster
+    Abilities
+        Shell Armor
+        Overcoat
+        Skill Link (Hidden)
+    Moves
+        Shell Smash
+        Razor Shell
+        Icicle Spear 
+        Spike Cannon
+        Clamp
+        Ice Shard
+        Water Gun
+        Aurora Beam
+        Iron Defense
+        Protect
+        Spikes
+        Withdraw
+
+Lanturn
+    Abilities
+        Volt Absorb
+        Illuminate
+        Water Absorb (Hidden)
+    Moves
+        Discharge
+        Flail
+        Water Pulse
+        Dive
+        Charge
+        Flash
+        Follow Me
+        Confuse Ray
+        Aqua Ring
+        Thunder Wave
+        Signal Beam
+        Ion Deluge
+        Eerie Impulse
+        
+Bronzong
+    Abilities
+        Levitate
+        Heatproof
+        Heavy Metal (Hidden)
+    Moves
+        Rain Dance
+        Weather Ball
+        Gyro Ball
+        Rest
+        Ally Switch
+        Teleport
+        Heavy Slam
+        Future Sight
+        Hypnosis
+        Metal Sound
+        Hyperspace Hole 
+        Mirror Shot
+        Metal Burst
+        Steel Beam
+        Iron Defense
+
+Wyrdeer
+    Abilities
+        Intimidate
+        Klutz
+        Sap Sipper (Hidden)
+    Moves
+        Stomp 
+        Double Kick
+        Jump Kick
+        Zen Headbutt
+        Ominous Wind
+        Hypnosis
+        Roleplay
+        Confuse Ray
+        Entrainment
+        Imprison
+        Psyshield Bash
+        
+Dunsparce
+    Abilities
+        Run Away
+        Emergency Exit
+        Demesne (Hidden)
+    Moves
+        Endeavor
+        Disarming Voice
+        Baby Doll Eyes
+        Geomancy
+        Misty Terrain
+        Drill Run
+        Sparkly Swirl
+        Dig
+        Wish
+        Parting Shot
+        Glare
+        Roost
+        Mud Slap
+        Nature's Madness
+        Terrain Pulse
+
+Eevee
+    Abilities
+        Adaptability
+        Protean (Hidden)
+    Moves
+        Tackle
+        Tail Whip
+        Sand-Attack
+        Quick Attack
+        Covet
+        Last Resort
+        Trump Card 
+        Take Down
+        Baby-Doll Eyes
+        Helping Hand
+        Charm
+        Baton Pass
+        Veevee Volley
+
+Vaporeon
+    Abilities
+        Water Absorb
+        Hydration (Hidden)
+    Moves
+        Bouncy Bubble
+        Water Gun
+        Water Pulse
+        Acid Armor
+        Aqua Ring
+        Soak
+
+Jolteon
+    Abilities
+        Volt Absorb
+        Motor Drive (Hidden)
+    Moves
+        Thunder Shock
+        Buzzy Buzz
+        Electro Ball
+        Electrify
+        Discharge
+        Pin Missile
+
+Flareon
+    Abilities
+        Flash Fire
+        Fur Coat (Hidden)
+    Moves
+        Ember
+        Sizzly Slide
+        Flame Charge
+        Smokescreen
+        Howl
+        Overheat
+
+Espeon
+    Abilities
+        Synchronize
+        Magic Bounce (Hidden)
+    Moves
+        Confusion
+        Glitzy Glow
+        Future Sight
+        Morning Sun 
+        Detect
+        Calm Mind
+
+Umbreon
+    Abilities
+        Synchronize
+        New Moon (Hidden)
+    Moves
+        Pursuit
+        Baddy Bad
+        Feint Attack
+        Moonlight
+        Poison Gas
+        Confuse Ray
+
+Leafeon
+    Abilities
+        Leaf Guard
+        Chlorophyll (Hidden)
+    Moves
+        Razor Leaf
+        Sappy Seed
+        Leaf Blade
+        Solar Blade
+        Sunny Day
+        Synthesis
+
+Glaceon
+    Abilities
+        Snow Cloak
+        Ice Body (Hidden)
+    Moves  
+        Icy Wind
+        Freeze Frost 
+        Freeze-Dry
+        Mist 
+        Mirror Coat
+        Hail 
+
+Sylveon
+    Abilities
+        Cute Charm
+        Pixelate (Hidden)
+    Moves
+        Disarming Voice
+        Sparkly Swirl
+        Draining Kiss
+        Misty Terrain
+        Sweet Kiss
+        Decorate
+
+Shiinotic
+    Abilities
+        Invasive Growth
+        Dazzling
+        Misty Surge (Hidden)
+    Moves
+        Sleep Powder
+        Spore
+        Absorb
+        Mega Drain
+        Giga Drain
+        Draining Kiss
+        Confuse Ray
+        Strength Sap
+        Ingrain
+        Flash
+        Moonlight
+        Nature's Madness
+        Headbutt
+
+Florges
+    Abilities
+        Flower Veil
+        Symbiosis (Hidden)
+    Moves
+        Fleur Cannon
+        Magical Leaf
+        Nature Power
+        Fairy Wind
+        Vine Whip
+        Flower Shield
+        Aromatherapy
+        Grassy Terrain
+        Crafty Shield
+        Nature's Madness
+
+Ursaluna
+    Abilities
+        Guts/Pickup
+        Bulletproof
+        Intimidate (Hidden)
+    Moves
+        Rage
+        Thrash
+        Slash
+        Crunch
+        Hammer Arm 
+        Fury Swipes
+        Headlong Rush
+        Wide Guard
+        Scary Face
+        Roar
+        Yawn
+        Rest
+        Snore
+        Lick
+        Play Nice
+        Covet
+        Odor Sleuth
+
+Rapidash
+    Abilities
+        Run Away
+        Flame Body
+        Trample (Hidden)
+    Moves
+        Take Down
+        Flare Blitz 
+        Horn Attack
+        Flame Charge
+        Tackle
+        Extremespeed
+        Stomp
+        Quick Attack
+        Double Edge
+
+Muk
+    Abilities
+        Stench
+        Sticky Hold
+        Poison Touch (Hidden)
+    Moves
+        Gunk Shot
+        Sludge
+        Body Slam
+        Mud Bomb 
+        Sludge Wave
+        Venom Drench
+        Mud Slap
+        Disable
+        Acid Armor
+        Minimize 
+        Pollute
+
+Weezing
+    Abilities
+        Neutralizing Gas
+        Stench 
+        Secondhand Smog (Hidden)
+    Moves
+        Double Hit
+        Poison Gas
+        Tackle
+        Smog
+        Smokescreen
+        Clear Smog
+        Assurance
+        Sludge
+        Self-Destruct
+        Sludge Bomb
+        Toxic
+        Explosion
+        Destiny Bond
+        Flamethrower
+        
+Dragalge
+    Abilities
+        Corrosion
+        Poison Touch
+        Adaptability (Hidden)
+    Moves
+        Synthesis
+        Tackle
+        Smokescreen
+        Water Gun
+        Acid
+        Poison Tail
+        Water Pulse
+        Toxic
+        Dragon Pulse
+        Aqua Tail
+        Sludge Bomb
+        Hydro Pump
+
+Polteageist
+    Abilities
+        Weak Armor
+        Cursed Body
+        Sap Sipper (Hidden)
+    Moves
+        Nasty Plot
+        Bitter Malice
+        Magical Leaf
+        Scald
+        Shell Smash
+        Steam Eruption
+        Withdraw
+        Aromatherapy
+        Teatime
+        Poltergeist
+
+Scyther
+    Abilities
+        Swarm
+        Technician
+        Speed Boost (Hidden)
+    Moves
+        Fury Cutter
+        Slash
+        Swords Dance
+        Aerial Ace
+        X-Scissor
+        Double Hit
+        Pursuit
+        Double Team
+        Fake Out
+        Agility
+        False Swipes
+        Cut 
+
+Scizor
+    Abilities
+        Swarm
+        Technician
+        Intimidate (Hidden)
+    Moves
+        Crush Claw
+        Bullet Punch
+        Iron Head
+        Metal Claw
+        Swords Dance
+        Fury Cutter
+        Fake Out
+        Iron Defense
+        False Swipe 
+        Cut 
+
+Kleavor
+    Abilities
+        Swarm
+        Technician
+        Sheer Force (Hidden)
+    Moves
+        Crush Claw
+        Bullet Punch
+        Iron Head
+        Metal Claw
+        Swords Dance
+        Fury Cutter
+        Fake Out
+        Iron Defense
+        False Swipe
+        Cut 
+
+Pinsir
+    Abilities  
+        Hyper Cutter
+        Hustle
+        Moxie (Hidden)
+    Moves
+        Clamp
+        Crush Claw
+        Crunch
+        Octolock
+        Contrict
+        Guillotine
+        X-Scissor
+        Vise Grip
+        Scary Face
+        Block
+        Dig
+        Retaliate
+        Crush Grip
+
+Exeggutor
+    Abilities
+        Harvest
+        Grassy Surge
+        Skill Link (Hidden)
+    Moves
+        Bullet Seed
+        Seed Bomb
+        Wood Hammer
+        Barrage
+        Stomp
+        Egg Bomb
+        Softboiled
+        Leech Seed
+        Grassy Terrain
+        Psychic Terrain
+        Grassy Glide
+        Terrain Pulse
+        Nature Power
+
+Girafarig
+    Abilities
+        Bite Back
+        Sap Sipper
+        Truant (Hidden)
+    Moves
+        Confusion
+        Stomp
+        Agility
+        Future Sight
+        Bite
+        Crunch
+        Assurance
+        Parting Shot
+        Skill Swap
+        About Face
+
+Tauros
+    Abilities
+        Intimidate
+        Anger Point
+        Sheer Force (Hidden)
+    Moves
+        Work Up
+        Horn Attack
+        Headbutt
+        Thrash
+        Take Down
+        Double Edge
+        Giga Impact
+        Frustration
+        Scary Face
+        Spiky Shield
+        Stomping Tantrum
+        Rest
+        Swagger
+        Instruct
+        High Horsepower
+
+Miltank
+    Abilities
+        Thick Fat
+        Scrappy
+        Sap Sipper (Hidden)
+    Moves
+        Body Slam
+        Helping Hand
+        Defense Curl
+        Rollout
+        Stomp
+        Return
+        Milk Drink
+        Heal Bell 
+        Wide Guard
+        Baby-Doll Eyes
+        Follow Me
+
+Lickilicky
+    Abilities
+        Thick Fat
+        Oblivious
+        Acid Reflux (Hidden)
+    Moves
+        Lick
+        Belch
+        Slam
+        Power Whip
+        Wrap
+        Wring Out
+        Natural Gift
+        Gulp
+        Stockpile
+        Spit Up
+        Swallow
+        Coil
+        Refresh
+        Disable
+        Supersonic
+        Gastro Acid
+
+Tangrowth
+    Abilities
+        Grass Pelt 
+        Leaf Guard
+        Regenerator (Hidden)
+    Moves
+        Vine Whip
+        Power Whip
+        Wrap
+        Wring Out
+        Ancient Power
+        Slam
+        Synthesis
+        Ingrain
+        Tickle
+        Grassy Terrain
+        Coil
+        Block
+
+Dodrio
+    Abilities
+        Tangled Feet
+        Run Away
+        Moody (Hidden)
+    Moves
+        Peck
+        Drill Peck
+        Tri Attack
+        Jump Kick
+        Double Hit
+        Chatter 
+        Uproar
+        Baton Pass
+
+Kangaskhan
+    Abilities
+        Scrappy 
+        Inner Focus
+        Parental Bond (Hidden)
+    Moves
+        Dizzy Punch
+        Pound
+        Mega Punch
+        Comet Punch
+        Reversal
+        Fake Out
+        Retaliate
+        Bite
+        Growl
+        Roar
+        Protect
+
+Rhyperior
+    Abilities
+        Lightning Rod
+        Solid Rock
+        Reckless (Hidden)
+    Moves
+        High Horsepower
+        Drill Run
+        Head Smash
+        Rock Wrecker
+        Rock Blast 
+        Horn Drill
+        Horn Attack
+        Bulldoze
+        Take Down
+        Tackle
+        Tail Whip
+
+Blissey
+    Abilities
+        Natural Cure
+        Healer
+        Triage (Hidden)
+    Moves
+        Egg Bomb
+        Wring Out
+        Echoed Voice
+        Disarming Voice
+        Softboiled
+        Life Dew 
+        Refresh
+        Heal Bell
+        Sing
+        Wish
+        Healing Wish
+        Bestow
+
+Zebstrika
+    Abilities
+        Lightning Rod
+        Motor Drive
+        Sap Sipper (Hidden)
+    Moves
+        Stomp
+        Spark 
+        Wild Charge
+        Thrash
+        Quick Attack
+        Thunder Wave
+        Discharge
+        Shockwave
+        Sonic Boom
+
+Sudowoodo
+    Abilities
+        Sturdy
+        Rock Head
+        Under the Weather (Hidden)
+    Moves
+        Hammer Arm
+        Head Smash
+        Rock Throw
+        Block
+        Branch Poke 
+        Wood Hammer
+        Flail
+        Sucker Punch
+        Counter
+        Tearful Look
+        Fake Tears
+        Stealth Rock
+        Copycat
+        Mimic
+        Camoflage
+        Nature's Madness
+
+Heracross
+    Abilities
+        Sap Sipper
+        Guts
+        Moxie (Hidden)
+    Moves
+        Megahorn
+        Horn Attack
+        Fury Attack
+        Fell Stinger
+        Vital Throw
+        Circle Throw
+        Storm Throw
+        Seismic Toss
+        Endure
+        Reversal
+        Leech Life
+
+Magmortar
+    Abilities
+        Flame Body
+        Cauterize
+        Bright Body (Hidden)
+    Moves
+        Heat Wave
+        Haze
+        Poison Gas
+        Leer
+        Ember
+        Smokescreen
+        Clear Smog
+        Confuse Ray
+        Fire Punch
+        Lava Plume
+        Flamethrower
+        Sunny Day
+        Fire Blast
+
+Dewgong
+    Abilities
+        Thick Fat
+        Hydration
+        Slush Rush (Hidden)
+    Moves
+        Horn Attack
+        Aurora Beam
+        Aqua Tail
+        Take Down
+        Aqua Jet
+        Ice Shard
+        Icicle Spear
+        Sheer Cold 
+        Aurora Veil
+        Brine 
+        Dive
+        Lick
+        Encore
+
+Kingdra
+    Abilities
+        Swift Swim
+        Sniper
+        Marvel Scale (Hidden)
+    Moves
+        Dragonbreath
+        Dragon Pulse
+        Hydro Pump
+        Laser Focus
+        Focus Energy
+        Sniper Shot
+        Smokescreen
+        Whirlpool
+        Water Gun
+        Twister
+        Agility
+        Rest
+        Mythical Dance
+
+Lapras
+    Abilities
+        Water Absorb
+        Ice Body
+        Hydration (Hidden)
+    Moves
+        Surf
+        Ice Beam
+        Body Slam
+        Water Pulse
+        Sheer Cold
+        Ice Shard
+        Icy Wind
+        Aurora Veil
+        Sing
+        Perish Song
+        Sparkling Aria
+        Mist
+        Rain Dance
+        Hail
+        Aqua Ring
+
+Drampa
+    Abilities
+        Berserk
+        Cloud Nine
+        Eternal Dragon (Hidden)
+    Moves
+        Glare
+        Dragonbreath
+        Snore
+        Hyper Beam
+        Aura Sphere
+        Swift
+        Dragon Energy
+        Calm Mind
+        Recycle
+        Play Nice
+        Safeguard
+        Rest
+        Follow Me
+        Defog
+        Razor Wind  
+        Instruct
+        Healing Wish
+
+Drampa (Youthful Forme)
+    Abilities
+        Berserk
+        Levitate
+        Kaio-Ken
+    Moves
+        Dragon Pulse
+        Aura Sphere
+        Vacuum Wave
+        Focus Blast
+        Final Gambit
+        Draco Meteor
+        Dragon Rage
+        Quiver Dance
+        Twister
+        Noble Roar
+        Helping Hand
+        Detect
+        Extreme Speed
+        (TR List includes all moves Drampa learns and vice versa)
+
+        
+
+
+Magcargo
+    Abilities
+        Aftermath
+        Cauterize
+        Fusion Shell (Hidden)
+    Moves
+        Shell Smash
+        Ancient Power
+        Eruption
+        Overheat
+        Rock Slide
+        Lava Plume
+        Yawn
+        Harden
+        Recover
+        Tar Shot
+        Incinerate
+        Amnesia
+
+Arcanine
+    Abilities
+        Flash Fire
+        Intimidate
+        Turboblaze (Hidden)
+    Moves
+        Bite
+        Fire Fang
+        Flare Blitz
+        Take Down
+        Flame Charge
+        Dragon Rush
+        Extreme Speed
+        Roar
+        Howl
+
+Mienshao
+    Abilities
+        Unburden
+        Long Reach
+        Size Up (Hidden)
+    Moves
+        Vacuum Wave
+        Mach Punch
+        Drain Punch
+        Arm Thrust
+        Force Palm 
+        Aura Sphere
+        Focus Blast
+        Thunderous Kiai
+        Work Up
+        Detect
+        Quick Guard
+        Fake Out
+        Agility
+        Bounce
+        Pound
+
+Venusaur
+    Abilities
+        Thick Fat
+        Effect Spore
+        Chlorophyll (Hidden)
+    Moves
+        Sleep Powder
+        Stun Spore
+        Razor Leaf
+        Solar Beam
+        Leech Seed
+        Synthesis
+        Protect
+        Poison Powder
+        Light Screen
+        Vine Whip
+        Sweet Scent
+
+Charizard
+    Abilities
+        Bright Body
+        Burning Touch
+        Solar Power (Hidden)
+    Moves
+        Scratch
+        Slash
+        Bite
+        Fire Fang
+        Flamethrower
+        Ember
+        Growl
+        Scary Face
+        Smokescreen
+        Acrobatics
+
+Blastoise
+    Abilities
+        Sturdy
+        Rain Dish
+        Mirror Armor (Hidden)
+    Moves
+        Water Gun
+        Aqua Jet
+        Aqua Tail
+        Hydro Pump
+        Flash Cannon
+        Withdraw
+        Rapid Spin
+        Skull Bash
+        Body Slam
+        Protect
+
+Lunatone
+    Abilities
+        Lunar Eclipse
+        New Moon (Hidden)
+    Moves
+        Rock Throw
+        Confusion
+        Power Gem
+        Moonblast
+        Night Shade
+        Cosmic Power
+        Moonlight
+        Night Daze
+        Ancient Power
+        Telekinesis
+
+Solrock
+    Abilities
+        Solar Eclipse
+        Drought (Hidden)
+    Moves
+        Rock Throw
+        Confusion
+        Zen Headbutt
+        Solar Blade
+        Rapid Spin 
+        Cosmic Power
+        Morning Sun
+        Heat Crash
+        Ancient Power
+        Rock Polish
+
+Minior
+    Abilities
+        Shields Down
+    Moves
+        Floaty Fall
+        Tackle
+        Ancient Power
+        Power Gem
+        Shell Smash
+        Sky Attack
+        Rollout
+        Cosmic Power
+        Meteor Beam
+        Swift
+
+Gliscor
+    Abilities
+        Hyper Cutter
+        Sand Veil
+        Poison Heal (Hidden)
+    Moves
+        Leech Life
+        Mud Slap
+        Poison Jab
+        X-Scissor
+        Slash
+        Guillotine
+        Tailwind
+        Dig
+        Acrobatics
+        Sandstorm
+        Hone Claws
+        U-Turn
+
+Electavire
+    Abilities
+        Static
+        Motor Drive
+        Rev Up (Hidden)
+    Moves
+        Plasma Fists
+        Thundershock
+        Charge
+        Spark
+        Screech
+        Thunder Punch
+        Thunder 
+        Hammer Arm
+        Arm Thrust
+        Brick Break
+        Bulk Up 
+
+Coalossal
+    Abilities
+        Steam Engine
+        Flame Body
+        Power Spot (Hidden)
+    Moves
+        Rock Throw
+        Flame Charge
+        Rock Blast 
+        Heat Crash
+        Take Down
+        Ember
+        Heat Wave
+        Tar Shot
+        Burn Up
+        Smokescreen
+
+Togekiss
+    Abilities
+        Friend Guard
+        Natural Cure
+        Serene Grace (Hidden)
+    Moves
+        Future Sight
+        Air Slash
+        Light of Ruin
+        Draining Kiss
+        Ominous Wind
+        Teleport
+        Wish
+        Light Screen
+        Reflect
+        Sparkly Swirl
+        Featherdance
+        Life Dew
+        Purify
+        Metronome
+
+Meganium
+    Abilities
+        Solar Power
+        Fecund Wind (Hidden)
+    Moves
+        Floral Healing
+        Tackle
+        Razor Leaf
+        Petal Blizzard
+        Petal Dance
+        Synthesis
+        Aromatherapy
+        Nature Power
+        Magical Leaf
+        Sweet Scent
+        Body Slam
+        Leafage
+        
+Typhlosion
+    Abilities
+        Intimidate
+        Vengeful Flames (Hidden)
+    Moves
+        Raging Fury
+        Burn Up
+        Eruption
+        Tackle
+        Leer
+        Smokescreen
+        Flame Wheel
+        Ember
+        Lava Plume
+        Inferno
+        Rollout
+        Double Edge
+
+Feraligatr
+    Abilities
+        Strong Jaw
+        Death Roll (Hidden)
+    Moves
+        Fishous Rend 
+        Ice Fang
+        Scratch
+        Bite
+        Crunch
+        Slash
+        Scary Face
+        Thrash
+        Clamp
+        Water Gun
+        Aqua Tail
+
+Jynx
+    Abilities
+        Telepathy
+        Ice Body
+
+    Moves
+        Glacial Lance
+        Psyshield Bash
+        Lovely Kiss
+        Draining Kiss
+        Icicle Spear
+        Glaciate
+        Avalanche
+        Freezing Glare
+        Healing Wish
+        Heart Stamp
+        Perish Song
+        Sing
+        Hyper Voice
+
+Delibird
+    Abilities
+        Snow Warning 
+        Special Delivery (Hidden)
+    Moves
+        Present
+        Fly
+        Aurora Veil
+        Mist
+        Haze
+        Icy Wind
+        Weather Ball
+        Powder Snow
+        Tailwind
+        Hail
+        Reflect
+        Light Screen
+        Follow Me
+        Milk Drink
+        Yawn
+        Featherdance
+        Pluck
+
+Mamoswine
+    Abilities
+        Oblivious
+        Snow Cloak
+        Thick Fat (Hidden)
+    Moves
+        Ancient Power
+        Horn Attack
+        Ice Fang
+        Icicle Crash
+        Thrash
+        Body Slam
+        Mud Slap
+        Bulldoze
+        Ice Ball
+        Endure
+        Bulk Up
+        Dig
+
+Weavile
+    Abilities
+        Pickpocket
+        Pack Tactics
+        Super Luck (Hidden)
+    Moves
+        Pursuit
+        Quick Attack
+        Ice Shard
+        Night Slash
+        Triple Axel
+        Assurance
+        Beat Up
+        Snatch
+        Screech
+        Hone Claws
+        Helping Hand
+        U-Turn
+
+Glalie
+    Abilities
+        Ice Body
+        Weak Armor
+        Heatproof (Hidden)
+    Moves
+        Freeze Dry
+        Ice Ball
+        Head Smash
+        Sheer Cold
+        Icy Wind
+        Astonish
+        Leer
+        Frost Breath
+        Bite
+        Ice Fang
+        Headbutt
+        Hail
+
+Froslass
+    Abilities
+        Snow Cloak
+        Cursed Body (Hidden)
+    Moves
+        Poltergeist
+        Hex
+        Astonish
+        Icy Wind
+        Frost Breath
+        Hail
+        Sudden Chill
+        Ice Sculpture    
+
+Wobbuffet
+    Abilities
+        Telepathy
+        Shadow Tag (Hidden)
+    Moves
+        Splash
+        Charm
+        Encore
+        Amnesia
+        Counter
+        Mirror Coat
+        Safeguard
+        Destiny Bond
+
+Skarmory
+    Abilities
+        Full Metal Body
+        Sturdy
+        Weak Armor (Hidden)
+    Moves
+        Steel Wing
+        Slash
+        Metal Sound
+        Peck
+        Brave Bird
+        Swords Dance
+        Iron Defense
+        Autotomize
+        Sharpened Blades
+
+Omastar
+    Abilities
+        Suction Cups
+        Prism Armor
+        Ancient Might (Hidden)
+    Moves
+        Heavy Slam
+        Wrap
+        Withdraw
+        Clamp
+        Ancient Power
+        Brine
+        Shell Smash
+        Octolock
+        Octazooka
+        Razor Shell
+        Smart Strike
+        Flash Cannon
+        Iron Defense
+        Aqua Ring
+
+Kabutops
+    Abilities
+        Swift Swim
+        Nocturnal 
+        Ancient Might (Hidden)
+    Moves
+        Slash
+        Fury Cutter
+        Razor Shell
+        Night Slash
+        Aqua Jet
+        Ancient Power
+        First Impression
+        Swords Dance
+        Absorb
+        Leech Life
+        Mud Slap
+        X-Scissor
+
+Aerodactyl
+    Abilities
+        Tough Claws
+        Moxie
+        Ancient Power (Hidden)
+    Moves
+        Scary Face
+        Roar
+        Screech
+        Dragon Claw
+        Dual Wingbeat
+        Outrage
+        Giga Impact
+        Dragon Rage
+        Take Down
+        Dragon Tail
+        Roost
+        Sky Attack
+        Wing Attack
+
+Unown
+    Abilities
+        Longing
+        Thousand Hands of Arcues (Hidden)
+    Moves
+        Hidden Power
+        Future Sight
+        Metronome
+        Trick Room
+        Wonder Room
+        Psychic Terrain
+        Magic Room
+        Block
+        Psycho Shift 
+        Divine Hand
+
+Dragonite
+    Abilities
+        Shed Skin
+        Multiscale (Hidden)
+    Moves
+        Dragon Pulse
+        Hyper Beam
+        Dragon Breath
+        Water Pulse
+        Hurricane
+        Draco Meteor
+        Twister
+        Wrap
+        Thunder Wave
+        Swift
+        Acrobatics
+        Calm Mind
+        Mythical Dance 
+
+Tyranitar
+    Abilities
+        Hustle
+        Terraform (Hidden)
+    Moves
+        Tackle
+        Rock Throw
+        Leer
+        Payback
+        Bite
+        Scary Face
+        Rock Slide
+        Screech
+        Crunch
+        Earthquake
+        Thrash
+        Meteor Beam
+        Hyper Beam  
+
+Flygon
+    Abilities
+        Sand Veil
+        Sand Rush
+        Sand Force (Hidden)
+    Moves
+        Sand Tomb
+        Sandstorm
+        Bite
+        Sand Attack
+        Astonish
+        Breaking Swipe
+        Dragon Dance
+        Silver Wind
+        Earth Power
+        Dragon Breath
+        Aerial Ace
+        Dig
+        Boomburst
+        Shore Up
+        Scorching Sands 
+
+Articuno
+    Abilities
+        Snow Warning
+        Snow Cloak
+        Spirit of Winter (Hidden)
+    Moves
+        Hail
+        Blizzard
+        Hurricane
+        Weather Ball
+        Sheer Cold
+        Roost
+
+Zapdos
+    Abilities
+        Drizzle
+        Storm Wings
+        Spirit of Spring (Hidden)
+    Moves
+        Rain Dance
+        Thunder
+        Weather Ball
+        Hurricane
+        Bolt Break
+        Roost    
+
+Moltres
+    Abilities
+        Drought
+        Solar Power
+        Spirit of Summer (Hidden)
+    Moves
+        Sunny Day
+        Fire Blast
+        Weather Ball
+        Solar Beam
+        Sky Attack
+        Roost    
+
+Raikou
+    Abilities
+        Super Conductor
+        Sacred Gift (Hidden)
+    Moves
+        Extrasensory
+        Electro Ball
+        Zap Cannon
+        Roar
+        Extreme Speed
+        Healing Wish
+        Thunderhead
+
+Entei
+    Abilities
+        Smoldering Coat
+        Sacred Gift (Hidden)
+    Moves
+        Extrasensory
+        Lava Plume
+        Eruption
+        Roar
+        Extreme Speed
+        Healing Wish
+        Volcanic Roar
+
+Suicune
+    Abilities
+        Water of Purity
+        Sacred Gift (Hidden)
+    Moves
+        Extrasensory
+        Ice Beam
+        Hydro Pump
+        Roar
+        Extreme Speed
+        Healing Wish
+        North Wind
+
+Lugia
+    Abilities
+        Air Lock
+        Multiscale (Hidden)
+    Moves  
+        Relic Song
+        Aeroblast
+        Hydro Pump
+        Esper Wing
+        Synchronoise
+        Mirror Coat
+        Recover
+        Calm Mind   
+
+Ho-Oh
+    Abilities
+        Regenerator
+        Rainbow Wings (Hidden)
+    Moves
+        Sacred Fire
+        Brave Bird
+        Extransensory
+        Ancient Power
+        Fire Blast
+        Sky Attack
+        Life Dew
+        Wish    

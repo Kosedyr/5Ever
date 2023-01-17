@@ -1,0 +1,137 @@
+[RIVAL_SAM,Sam]
+LoseText = "Are you okay Nidoran?"
+Pokemon = NIDORANmA,5
+	Name = ???
+        Gender = male
+        Shiny = no
+        Moves =
+        AbilityIndex = 0
+        Item =
+        Ball =
+
+[BUG CATCHER,Bimmy]
+LoseText = "Awwww man. You got me totally outclassed!"
+Pokemon = CATERPIE,6
+        Gender = female
+        Shiny = no
+        Moves = STRUGGLEBUG,STRINGSHOT
+        AbilityIndex = 0
+        Item =
+        Ball =
+Pokemon = WEEDLE,6
+        Gender = male
+        Shiny = no
+        Moves = POISONSTING,STRINGSHOT
+        AbilityIndex = 0
+        Item =
+        Ball =
+
+[BUG CATCHER,Bobby]
+LoseText = "No way! I can't believe you beat my super cool Ledyba!"
+Pokemon = LEDYBA,8
+        Gender = male
+        Shiny = no
+        Moves = FLING,SUPERSONIC
+        AbilityIndex = 1
+        Item = ORANBERRY
+        Ball =
+
+[BUG CATCHER,Scotty]
+LoseText = "No way! I can't believe you beat my super cute Spinarak!"
+Pokemon = SPINARAK,8
+        Gender = female
+        Shiny = no
+        Moves = POISONSTING,STRINGSHOT,ABSORB,INFESTATION
+        AbilityIndex = 1
+        Item =
+        Ball =
+
+[YOUNGSTER,Ty]
+LoseText = "Guess I gotta keep searching for new Pokemon here. "
+Pokemon = PINECO,8
+        Gender =
+        Shiny = no
+        Moves =
+        AbilityIndex = 0
+        Item = PECHABERRY
+        Ball =
+Pokemon = HOOTHOOT,9
+        Gender =
+        Shiny = no
+        Moves =
+        AbilityIndex = 1
+        Item =
+        Ball =
+
+[RIVAL_AGITHA,Agitha]
+Items = ORANBERRY
+LoseText = "Alright, alright. You win. Happy?"
+Pokemon = VENONAT,9
+	Name = ???
+        Gender =
+        Shiny = no
+        Moves =
+        AbilityIndex = 0
+        Item =
+        Ball =
+Pokemon = GASTLY,11
+	Name = ???
+        Gender =
+        Shiny = no
+        Moves = LICK,POISONGAS
+        AbilityIndex = 0
+        Item =
+        Ball =
+
+[RUIN MANIAC,Shale]
+LoseText = "Looks like I got caught in my own trap."
+Pokemon = DIGLETT,9
+        Gender =
+        Shiny = no
+        Moves =
+        AbilityIndex = 1
+        Item =
+        Ball =
+Pokemon = GEODUDE,9
+        Gender =
+        Shiny = no
+        Moves =
+        AbilityIndex = 0
+        Item =
+        Ball =
+
+[RUIN MANIAC,Pterry]
+LoseText = "What an incredible find you are!"
+Pokemon = SANDSHREW,10
+        Gender =
+        Shiny = no
+        Moves = 
+        AbilityIndex = 0
+        Item =
+        Ball =
+Pokemon = CUBONE,11
+        Gender =
+        Shiny = no
+        Moves =
+        AbilityIndex = 0
+        Item =
+        Ball =
+
+[GYMLEADER_BLITH,Blith]
+Items = POTION
+LoseText = "You were every bit worth the excitement, challenger! We may not get challengers often, but battles like this one more than reward the 
+patience. Here: you've shown you deserve this badge. Wear it with pride. "
+Pokemon = PHANPY,11
+        Gender = female
+        Shiny = no
+        Moves = MUDSLAP,CHARM,ROLLOUT
+        AbilityIndex = 1
+        Item =
+        Ball = HEAVYBALL
+Pokemon = MINIOR,13
+        Gender =
+        Shiny = no
+        Moves = TACKLE,DEFENSECURL,ANCIENTPOWER
+        AbilityIndex = 0
+        Item = SITRUSBERRY
+        Ball = HEAVYBALL
